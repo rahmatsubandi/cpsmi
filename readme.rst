@@ -1,9 +1,3 @@
-#############
-Apa Itu CPSMI
-#############
-
-CPSMI merupakan website company profile untuk berbagai instansi, sekolah, universitas, perguruan tinggi, 
-ataupun blog perorangan.
 Dibangun dengan PHP 7 dan framework Codeigniter 3, serta database menggunakan MySQL 5.
 
 ********************
@@ -49,22 +43,3 @@ Instalasi
 - Test aplikasi dengan mengakses url :
   - Front-end : `http://localhost/cpsmi/ <http://localhost/cpsmi>`_
   - Back-end : `http://localhost/cpsmi/panel/ <http://localhost/cpsmi/panel>`_
-
-*******
-Lisensi
-*******
-
-Silahkan lihat pada file "license.txt".
-Laporkan masalah keamanan atau bug ke email "sanimalikibrahim@gmail.com", terima kasih.
-
-****************
-Kontak Developer
-****************
-
-Email : sanimalikibrahim@gmail.com
-Phone / Whatsapp : +62 813-951-794-52
-Blog : http://developid.blogspot.com/
-Website : http://tasik.dev/
-
-Best regards,
-Sani Malik Ibrahim
