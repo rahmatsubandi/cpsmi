@@ -1,0 +1,28 @@
+RewriteEngine on
+
+# redirect non-www to www
+# aktifkan aturan dibawah ini JIKA website kamu TIDAK diakses pada sub domain 
+# aturan dibawah ini tujuannya untuk mencegah error 'Same-Origin'
+# Sesuaikan/ganti tulisan 'domain' dan '.com' sesuai dengan nama domain kamu
+# cara menonaktikannya adalah dengan menghilangkan karakter # didepan
+# Namun jika website kamu diakses melalui sub domain, abaikan saja ini.
+
+# Extra Security Headers
+<IfModule mod_headers.c>
+	Header set X-XSS-Protection "1; mode=block"
+	Header always append X-Frame-Options DENY
+	Header set X-Content-Type-Options nosniff
+</IfModule>
+
+#RewriteCond %{HTTP_HOST} ^domain\.com$ [NC]
+#RewriteRule ^(.*)$ http://www\.domain.com/$1 [L,R=301]
+#RewriteCond %{THE_REQUEST} \ /index\.php/?([^\?\ ]*)
+#RewriteRule ^ http://www\.domain.com/%1 [L,R=301] 
+
+# internally route to /index.php
+RewriteCond $1 !^(index\.php|resources|robots\.txt)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L,QSA]
+
+Options -Indexes

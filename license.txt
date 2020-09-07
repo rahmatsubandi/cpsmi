@@ -1,0 +1,18 @@
+The MIT License (MIT)
+
+Copyright (c) 2020, Sani Malik Ibrahim
+
+Izin ini diberikan, kepada siapa pun yang memperoleh salinan source-code ini dan file terkait (source-code),
+hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, dan / atau mempelajari source-code ini,
+dengan ketentuan sebagai berikut :
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus dimasukan dalam semua salinan atau sebagaian penting aplikasi.
+
+SOURCE-CODE INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT.
+DALAM HAL APAPUN PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KERUSAKAN ATAU KEWAJIABAN LAINNYA,
+BAIK DALAM TINDAKAN KONTRAK, KETENTUAN ATAU KATA LAINNYA, DILUAR ATAU DALAM HUBUNGAN SOURCE-CODE INI.
+SIAPAPUN YANG MEMPEROLEH SOURCE-CODE INI, TIDAK DI PERBOLEHKAN UNTUK MENJUAL SOURCE-CODE INI KECUALI ATAS IZIN DEVELOPER.
+
+
+CPSMI dibuat dengan Codeigniter, adapun lisensi nya silahkan lihat `disini 
+<https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
