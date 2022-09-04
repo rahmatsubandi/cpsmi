@@ -43,3 +43,13 @@ Instalasi
 - Test aplikasi dengan mengakses url :
   - Front-end : `http://localhost/cpsmi/ <http://localhost/cpsmi>`_
   - Back-end : `http://localhost/cpsmi/panel/ <http://localhost/cpsmi/panel>`_
+
+*********
+Contributors
+*********
+
+<a href="https://github.com/rahmatsubandi/cpsmi/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rahmatsubandi/cpsmi" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
