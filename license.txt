@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2020, Sani Malik Ibrahim
+Copyright (c) 2020, Rahmat Subandi
 
 Izin ini diberikan, kepada siapa pun yang memperoleh salinan source-code ini dan file terkait (source-code),
 hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, dan / atau mempelajari source-code ini,
