@@ -15,4 +15,4 @@ SIAPAPUN YANG MEMPEROLEH SOURCE-CODE INI, TIDAK DI PERBOLEHKAN UNTUK MENJUAL SOU
 
 
 CPSMI dibuat dengan Codeigniter, adapun lisensi nya silahkan lihat `disini 
-<https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+<https://github.com/rahmatsubandi/cpsmi/blob/master/LICENSE>`_.
