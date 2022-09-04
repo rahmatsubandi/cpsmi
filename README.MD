@@ -1,8 +1,6 @@
-Dibangun dengan PHP 7 dan framework Codeigniter 3, serta database menggunakan MySQL 5.
+<h2 align="center">Dibangun dengan PHP 7 dan framework Codeigniter 3, serta database menggunakan MySQL 5.</h2>
 
-********************
-Module Yang Tersedia
-********************
+# Module Yang Tersedia
 
 - About
 - Blog (Artikel)
@@ -20,9 +18,7 @@ Module Yang Tersedia
 - Multiple User (Role hanya admin saja)
 - Menu Configuration (Pengaturan untuk menu di Front-End)
 
-****************
-Kebutuhan Server
-****************
+## Kebutuhan Server
 
 PHP versi 7.1 atau lebih baru direkomendasikan.
 
@@ -30,9 +26,7 @@ Dapat berjalan juga di 5.3.7, tapi kemungkinan tidak akan berjalan baik
 untuk versi php lama, karena potensi keamanan dan kinerja, yang memungkinkan
 beberapa fitur tidak dapat bekerja.
 
-*********
-Instalasi
-*********
+### Instalasi
 
 - Install XAMPP versi terbaru (`Download <https://www.apachefriends.org/download.html>`_).
   - Pastikan minimal versi PHP 7.1 dan versi MySQL 5.
@@ -44,12 +38,10 @@ Instalasi
   - Front-end : `http://localhost/cpsmi/ <http://localhost/cpsmi>`_
   - Back-end : `http://localhost/cpsmi/panel/ <http://localhost/cpsmi/panel>`_
 
-*********
-Contributors
-*********
+# Contributors
+
+> Ingin jadi kontributor dalam project ini? Silahkan open request, ini sangat terbuka untuk siapun yang mau bergabung
 
 <a href="https://github.com/rahmatsubandi/cpsmi/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rahmatsubandi/cpsmi" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
