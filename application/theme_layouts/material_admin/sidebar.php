@@ -30,7 +30,7 @@
 
             <li class="navigation__sub <?php echo (in_array($this->router->fetch_class(), [
                                             'moduleabout', 'moduleblog', 'modulecareer', 'moduleclient', 'modulecontact', 'moduledashboard',
-                                            'modulefaq', 'moduleportfolio', 'moduleproduct', 'moduleservice', 'moduletestimonial', 'modulevisimisi'
+                                            'modulefaq', 'moduleportfolio', 'moduleproduct', 'moduleservice', 'moduletestimonial', 'modulevisimisi', 'moduletest'
                                         ])) ? 'navigation__sub--active navigation__sub--toggled' : '' ?>">
                 <a href=""><i class="zmdi zmdi-puzzle-piece"></i> Modules</a>
                 <ul>
@@ -69,6 +69,9 @@
                     </li>
                     <li class="<?php echo ($this->router->fetch_class() === 'modulevisimisi') ? 'navigation__active' : '' ?>">
                         <a href="<?php echo base_url('panel/modulevisimisi/') ?>">Visi & Misi</a>
+                    </li>
+                    <li class="<?php echo ($this->router->fetch_class() === 'moduletest') ? 'navigation__active' : '' ?>">
+                        <a href="<?php echo base_url('panel/moduletest/') ?>">Test</a>
                     </li>
                 </ul>
             </li>

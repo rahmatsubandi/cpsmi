@@ -31,7 +31,7 @@ class Login extends AppBackend
       $password = $this->input->post('password');
       $temp = $this->LoginModel->getDetail(['username' => $username, 'password' => md5($password), 'is_active' => '1']);
 
-      if (count(array($temp)) == 1) {
+      if ($temp) {
         $user = array(
           'user_id' => $temp->id,
           'username' => $temp->username,

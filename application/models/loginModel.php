@@ -9,7 +9,7 @@ class LoginModel extends CI_Model
     return array(
       [
         'field' => 'username',
-        'label' => 'NIK',
+        'label' => 'Username',
         'rules' => 'required|trim'
       ],
       [

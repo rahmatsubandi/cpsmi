@@ -31,7 +31,7 @@
 
               <div class="login__block__body">
                   <div class="form-group form-group--float form-group--centered">
-                      <input type="text" name="username" class="form-control login-username" readonly onfocus="this.removeAttribute('readonly');" />
+                      <input type="text" name="username" class="form-control login-username" readonly onfocus="this.removeAttribute('readonly');" autofocus />
                       <label>Username</label>
                       <i class="form-group__bar"></i>
                   </div>
@@ -43,7 +43,14 @@
                   </div>
 
                   <div class="login-spinner" style="display: none;">
-                    <div style="text-align: center;"><div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div></div>
+                    <div style="text-align: center;">
+                      <div class="lds-ellipsis">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                      </div>
+                    </div>
                   </div>
                   <div class="login-button">
                     <button class="btn btn--icon login__block__btn page-action-login"><i class="zmdi zmdi-long-arrow-right"></i></button>
