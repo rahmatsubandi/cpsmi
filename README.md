@@ -45,3 +45,14 @@ beberapa fitur tidak dapat bekerja.
 <a href="https://github.com/rahmatsubandi/cpsmi/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rahmatsubandi/cpsmi" />
 </a>
+
+## CPSMI PRO Version
+
+> Saya juga menyediakan fitur PRO yang memiliki beberapa perubahan signifikan dan peningkatan security. Jika anda tertarik dapat menghubungi saya. Untuk versio Pro ini kemungkinan akan rilis pada awal tahun depan 01 Januari 2023.
+
+## CPSMI Custom Version
+
+> Saya juga menyediakan versi custom sesuai kebutuhan dan pengunaan kalian. jika berminat silahkan hubungi saya.
+
+### Kontak
+[WhatsApp](https://wa.me/6285155405002/)
