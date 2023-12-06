@@ -37,6 +37,9 @@ beberapa fitur tidak dapat bekerja.
 - Test aplikasi dengan mengakses url :
   - Front-end : `http://localhost/cpsmi/ <http://localhost/cpsmi>`_
   - Back-end : `http://localhost/cpsmi/panel/ <http://localhost/cpsmi/panel>`_
+ 
+# Rencana Kedepan
+Saat ini saya memiliki rencana untuk membangun ulang CPSMI. Jika kamu berminat bergabung dan membantu saya hubungi saya segara. Untuk planning nya bisa kamu lihat disini [CPSMI Planning](https://cpsmi.featurebase.app/)
 
 # Contributors
 
